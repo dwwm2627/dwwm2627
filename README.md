@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon profil Github!
 
-<!--
-**dwwm2627/dwwm2627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Développeur Web et Web Mobile en formation
+*Bienvenue dans mon univers de développement web*
 
-Here are some ideas to get you started:
+## 🙋‍♂️ À propose de moi
+Actuellement en formation **Développeur Web et Web Mobile (DWWM)**, je développe mes compétences dans la création de sites et d'application web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J'aime apprendre, expérimenter et relever de nouveaux défis techniques.
+
+- 🎓 En formation DWWM
+- 💻 Développement web front-end et back-end
+- 🌱 En constante progression
+- 🚀 Objectif : devenir une star du code
+
+## Mes compétences
+**Langages et technologies**
+- HTML5
+- CSS3
+- Javascript (Node)
+- Git
+- Github
+- Markdown
+
+## 📂 Mes projets
+| Projet | Description |
+|---|---|
+|[dwwm-tp](https://github.com/dwwm2627/dwwm-tp) | Travaux pratiques de la formation |
+
+## 🎯 Mes objectifs
+- Approfondire mes connaissances en Javascript
+- ...
+
+*Merci de visiter mon profil GitHub!*
+
+
+
+
+
+
+
+
+
+
+
