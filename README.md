@@ -26,6 +26,7 @@ J'aime apprendre, expérimenter et relever de nouveaux défis techniques.
 | Projet | Description |
 |---|---|
 |[dwwm-tp](https://github.com/dwwm2627/dwwm-tp) | Travaux pratiques de la formation |
+|[dwwm-soutien](https://github.com/dwwm2627/dwwm-soutien) | Exercices de soutien |
 
 ## 🎯 Mes objectifs
 - Approfondire mes connaissances en Javascript
